@@ -1,3 +1,4 @@
+**PROJETO FINALIZADO**
 Apresentação do Projeto - TODO List
 
 Introdução Primeiramente, gostaria de agradecer a oportunidade de participar deste desafio técnico. O projeto que desenvolvi é um TODO List utilizando ReactJS no frontend e NodeJS com Express no backend, conectado a um banco de dados SQL Server. O objetivo era implementar funcionalidades como criação, atualização, pesquisa, exclusão, conclusão e arquivamento de tarefas.
